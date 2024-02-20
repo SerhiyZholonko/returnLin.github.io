@@ -1,11 +1,14 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "FUF7HHD92K.com.SerhiiZholonko.testtestDiya",
-        "paths": ["/*", "/mainView/*"]
-      }
-    ]
-  }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "FUF7HHD92K.com.SerhiiZholonko.testtestDiya",
+                "paths": [
+                    "/*",
+                    "/users/*"
+                ]
+            }
+        ]
+    }
 }
