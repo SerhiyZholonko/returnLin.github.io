@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "FUF7HHD92K.com.DehealthApp.www",
-                "paths": ["*"]
+                "paths": ["*/"]
             }
         ]
     }
