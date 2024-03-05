@@ -5,7 +5,7 @@
             {
                 "appID": "FUF7HHD92K.com.DehealthApp.www",
                 "paths": [
-                    "/*",
+                    "*",
                     "/users/*"
                 ]
             }
